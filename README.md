@@ -11,3 +11,7 @@ The Telangana Growth Analysis project involves analyzing data from Stamp Registr
 4. Multivariate Analysis: Find correlation among these departments and report the overall growth of the state through insights and relevant visuals such as shape maps.
 
 
+To explore more, please find the link below to access the dashboard of my project:
+
+Telangana_growth_analysis Dashboard()
+[Telangana_growth_analysis Dashboard](#Project-Overview)
