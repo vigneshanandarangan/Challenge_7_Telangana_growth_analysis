@@ -1,11 +1,5 @@
 # Analyse Growth and Present Insights to the Telangana Government
 
-### Table of Contents
-
-1. [Chapter 1 - Project Overview](#Project-Overview)
-2. [Chapter 2 - OBJECTIVE](#OBJECTIVE)
-
-
 ### Project Overview
 
 The Telangana Growth Analysis project involves analyzing data from Stamp Registration, Transportation, and          Ts-Ipass datasets to uncover trends, correlations, and growth opportunities. The goal is to provide valuable insights and recommendations to support informed decision-making for the state's development. The project integrates geospatial mapping to visualize insights at the district level and aims to engage top-level management with a persuasive presentation and notification strategy
