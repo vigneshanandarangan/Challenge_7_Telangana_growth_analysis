@@ -13,5 +13,4 @@ The Telangana Growth Analysis project involves analyzing data from Stamp Registr
 
 To explore more, please find the link below to access the dashboard of my project:
 
-Telangana_growth_analysis Dashboard()
 [Telangana_growth_analysis Dashboard](#Project-Overview)
